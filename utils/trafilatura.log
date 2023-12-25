@@ -1,0 +1,1 @@
+ERROR:root:Error processing file .DS_Store: 'utf-8' codec can't decode byte 0x87 in position 23: invalid start byte
